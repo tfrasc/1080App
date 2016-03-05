@@ -1,0 +1,14 @@
+E:\Programs\Visual Studio\Projects\1080App\1080App\bin\Debug\1080App.exe.config
+E:\Programs\Visual Studio\Projects\1080App\1080App\bin\Debug\1080App.exe
+E:\Programs\Visual Studio\Projects\1080App\1080App\bin\Debug\1080App.pdb
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App.csprojResolveAssemblyReference.cache
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\App.g.cs
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App_MarkupCompile.cache
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App_MarkupCompile.lref
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App.g.resources
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\_1080App.Properties.Resources.resources
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App.csproj.GenerateResource.Cache
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App.exe
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App.pdb
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\SplashWindow.g.cs
+E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\SplashWindow.baml

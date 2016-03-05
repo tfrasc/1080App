@@ -1,0 +1,13 @@
+﻿<Window x:Class="_1080App.SplashWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1080App"
+        mc:Ignorable="d"
+        Title="SplashWindow" Height="350" Width="525">
+    <Grid>
+        <Image x:Name="_1080WhiteStorm_png" Margin="0,0,10,0" Source="1080WhiteStorm.png" Stretch="Fill"/>
+        <Rectangle Name ="StartRect" Margin="187,184,191,76" Opacity=".5" Fill="White" MouseEnter="StartRect_MouseEnter" MouseLeave="StartRect_MouseLeave" MouseDown="StartRect_MouseDown"></Rectangle>
+    </Grid>
+</Window>
