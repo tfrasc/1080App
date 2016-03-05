@@ -26,3 +26,5 @@ C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\SplashWindow.baml
 C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App.g.resources
 C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\_1080App.Properties.Resources.resources
 C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App.csproj.GenerateResource.Cache
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\MainWindow.g.cs
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\MainWindow.baml

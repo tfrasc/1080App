@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="SplashWindow" Height="350" Width="525">
     <Grid>
-        <Image x:Name="_1080WhiteStorm_png" Margin="0,0,10,0" Source="1080WhiteStorm.png" Stretch="Fill"/>
+        <Image x:Name="WhiteStorm" Margin="0,0,10,0" Source="1080WhiteStorm.png" Stretch="Fill"/>
         <Rectangle Name ="StartRect" Margin="187,184,191,76" Opacity=".5" Fill="White" MouseEnter="StartRect_MouseEnter" MouseLeave="StartRect_MouseLeave" MouseDown="StartRect_MouseDown"></Rectangle>
     </Grid>
 </Window>

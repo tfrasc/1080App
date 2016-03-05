@@ -39,8 +39,8 @@ namespace _1080App
         {
             ///destroy current window
             StartRect.Opacity = 1;
-            Window MainWindow = new Window();
-            MainWindow.Show();
+            MainWindow mw = new MainWindow();
+            mw.Show();
             this.Hide();
             this.Close();
         }
