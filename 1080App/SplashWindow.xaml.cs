@@ -37,6 +37,7 @@ namespace _1080App
 
         private void StartRect_MouseDown(object sender, MouseButtonEventArgs e)
         {
+            ///destroy current window
             StartRect.Opacity = 1;
         }
     }
