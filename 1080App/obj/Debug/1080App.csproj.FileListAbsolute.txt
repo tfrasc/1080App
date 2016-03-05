@@ -12,3 +12,17 @@ E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App.exe
 E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\1080App.pdb
 E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\SplashWindow.g.cs
 E:\Programs\Visual Studio\Projects\1080App\1080App\obj\Debug\SplashWindow.baml
+C:\Users\Tyler\Source\Repos\1080App\1080App\bin\Debug\1080App.exe.config
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App.exe
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App.pdb
+C:\Users\Tyler\Source\Repos\1080App\1080App\bin\Debug\1080App.exe
+C:\Users\Tyler\Source\Repos\1080App\1080App\bin\Debug\1080App.pdb
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\SplashWindow.g.cs
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\App.g.cs
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App_MarkupCompile.cache
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App_MarkupCompile.lref
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\SplashWindow.baml
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App.g.resources
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\_1080App.Properties.Resources.resources
+C:\Users\Tyler\Source\Repos\1080App\1080App\obj\Debug\1080App.csproj.GenerateResource.Cache
