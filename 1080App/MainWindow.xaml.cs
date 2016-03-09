@@ -9,13 +9,14 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
 namespace _1080App
 {
     /// <summary>
-    /// Interaction logic for Window1.xaml
+    /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
@@ -24,9 +25,18 @@ namespace _1080App
             InitializeComponent();
         }
 
-        private void Beta_MouseEnter(object sender, MouseEventArgs e)
+        private void wood_jpg_MouseEnter(object sender, MouseEventArgs e)
         {
-            
+            moveUp(wood_jpg);
+        }
+
+        private void moveUp(Image img)
+        {
+            var top = Canvas.GetTop(img);
+            TranslateTransform newImg = new TranslateTransform();
+            img.RenderTransform = newImg;
+            DoubleAnimation anim = new DoubleAnimation(0, top + 10, TimeSpan.FromSeconds(1));
+            newImg.BeginAnimation(TranslateTransform.YProperty, anim);
         }
     }
 }

@@ -6,9 +6,9 @@
         xmlns:local="clr-namespace:_1080App"
         mc:Ignorable="d"
         Title="mw" Height="500" Width="800">
-    <Grid>
-        <Image x:Name="Beta" Margin="278,160,276,161" Source="1080Logo.bmp" Stretch="Fill" MouseEnter="Beta_MouseEnter"/>
-        <Rectangle Fill="Lavender" Stroke="Lavender" Width="799" Margin="0,0,0,388"/>
-           <TextBox FontSize="25" Text="Main Menu" Margin="10,40,644,388" Background="Lavender" BorderThickness="0" IsReadOnly="True"/>
-    </Grid>
+    <Canvas>
+        <Image x:Name="_1080banner_jpg" Source="1080banner.jpg" Stretch="Fill" Height="109" Width="792"/>
+        <Image x:Name="wood_jpg" Height="170" Canvas.Left="239" Source="wood.jpg" Stretch="Fill" Canvas.Top="204" Width="341"/>
+        <Image x:Name="mainmenu_jpg" Source="mainmenu.jpg" Stretch="Fill" Canvas.Left="239" Canvas.Top="289"/>
+    </Canvas>
 </Window>
