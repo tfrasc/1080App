@@ -7,8 +7,14 @@
         mc:Ignorable="d"
         Title="mw" Height="500" Width="800">
     <Canvas>
-        <Image x:Name="_1080banner_jpg" Source="1080banner.jpg" Stretch="Fill" Height="109" Width="792"/>
-        <Image x:Name="wood_jpg" Height="170" Canvas.Left="239" Source="wood.jpg" Stretch="Fill" Canvas.Top="204" Width="341"/>
+        <Image x:Name="wood_jpg_Copy" Height="170" Canvas.Left="239" Source="wood.jpg" Stretch="Fill" Canvas.Top="119" Width="341"/>
+        <Image x:Name="_1080banner_jpg" Source="1080banner.jpg" Stretch="Fill" Height="102" Width="792"/>
+        <Image x:Name="beta_jpg" Height="138" Canvas.Left="300" Source="beta.jpg" Stretch="Fill" Canvas.Top="132" Width="92"/>
+        <Image x:Name="demo_jpg" Height="138" Canvas.Left="416" Source="demo.jpg" Stretch="Fill" Canvas.Top="132" Width="92"/>
+        <Image x:Name="wood_jpg" Height="170" Canvas.Left="239" Source="wood.jpg" Stretch="Fill" Canvas.Top="186" Width="341"/>
+        <Image x:Name="US_png" Height="138" Canvas.Left="254" Source="US.png" Stretch="Fill" Canvas.Top="218" Width="92"/>
+        <Image x:Name="JP_jpg" Height="138" Canvas.Left="364" Source="JP.jpg" Stretch="Fill" Canvas.Top="218" Width="92"/>
+        <Image x:Name="EU_jpg" Height="138" Canvas.Left="474" Source="EU.jpg" Stretch="Fill" Canvas.Top="218" Width="92"/>
         <Image x:Name="mainmenu_jpg" Source="mainmenu.jpg" Stretch="Fill" Canvas.Left="239" Canvas.Top="289"/>
     </Canvas>
 </Window>
